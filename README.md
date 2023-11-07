@@ -14,7 +14,7 @@ Hi, I’m Jhosno, a full-stack web developer who is passionate about creating fu
 
 - 👨‍💻 All of my projects are available at [jhosno.github.io](jhosno.github.io)
 
-- 💬 Ask me about **React, SQL**
+- 💬 Ask me about **MERN stack, SQL, Laravel**
 
 - 📫 How to reach me **jhosno.dev@gmail.com**
 
