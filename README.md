@@ -35,8 +35,6 @@ Hi, I’m Jhosno, a full-stack web developer who is passionate about creating fu
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jhosnodev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jhosnodev&icon=9&color=6)](https://visitcount.itsvg.in)
