@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jhosno 👾</h1>
 <h3 align="center">A fullstack developer</h3>
-<h3 align="center">React, redux, SQL, PHP/laravel, NodeJS </h3>
+<h3 align="center">Javascript | React | redux | NodeJS | SQL | PHP/laravel </h3>
 
+#### About me
+Hi, I’m Jhosno, a full-stack web developer who is passionate about creating functional and beautiful websites for my clients. I’m always learning and improving my skills to provide quality service. I love working on challenging projects and finding creative solutions to complex problems. In my free time, I enjoy reading and listening to music.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhosnodev&label=Profile%20views&color=0e75b6&style=flat" alt="jhosnodev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhosnodev" alt="jhosnodev" /></a> </p>
