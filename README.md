@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhosnodev" alt="jhosnodev" /></a> </p>
 
-- 🔭 I’m currently working on [MenúMaestro](https://menumaestro.es/en)
+- 🔭 I’m currently working on [Creatienda](https://creatienda.cl)
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently improving **TYPESCRIPT**
 
 - 👨‍💻 All of my projects are available at [jhosno.github.io](jhosno.github.io)
 
-- 💬 Ask me about **React, SQL**
+- 💬 Ask me about **React, SQL, PHP**
 
 - 📫 How to reach me **jhosno.dev@gmail.com**
 
