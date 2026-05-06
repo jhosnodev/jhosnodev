@@ -8,7 +8,7 @@ Creatienda</h3>
 
 - 🔭 I’m currently working on [Creatienda](https://creatienda.cl) Saas multitenancy
 
-- 🌱 I’m currently improving **design  pattern** 🧩
+- 🌱 I’m currently learning more about **design  pattern** 🧩
 
 - 👨‍💻 All of my projects are available at [jhosno.github.io](jhosno.github.io)
 
