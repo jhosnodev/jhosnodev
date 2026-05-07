@@ -8,8 +8,6 @@ Currently building [Creatienda](https://creatienda.cl) — a
 multi-tenant e-commerce platform for SMBs in Latin America.
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhosnodev" alt="jhosnodev" /></a> </p>
-
 ---
 
 ### 🛠 Stack
