@@ -34,4 +34,4 @@ Full timezone overlap with US East Coast clients.
 
 ---
 
-<sub>🐈‍⬛ Cat parent of Hela. Reading about Art history in my spare time.</sub>
+<sub>🐈‍⬛ Cat parent of Hela, a cute black cat. Reading about Art history in my spare time.</sub>
