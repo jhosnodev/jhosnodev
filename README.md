@@ -1,24 +1,38 @@
-<h1 align="center">Hi 👋, I'm Jhosno 👾</h1>
-<h3 align="center">Laravel · TypeScript · React · NestJS — Full Stack focused in SaaS multi-tenant. Building
-Creatienda</h3>
+<h1>Hi 👋, I'm Jhosno</h1>
+<h3>Full Stack Developer · Laravel & Multi-tenant SaaS</h3>
+
+6+ years in the PHP ecosystem, the last 3 focused on Laravel 
+and multi-tenant SaaS architecture.
+
+Currently building [Creatienda](https://creatienda.cl) — a 
+multi-tenant e-commerce platform for SMBs in Latin America.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhosnodev&label=Profile%20views&color=0e75b6&style=flat" alt="jhosnodev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhosnodev" alt="jhosnodev" /></a> </p>
 
-- 🔭 I’m currently working on [Creatienda](https://creatienda.cl) Saas multitenancy
+---
 
-- 🌱 I’m currently learning more about **design  pattern** 🧩
+### 🛠 Stack
 
-- 👨‍💻 All of my projects are available at [jhosno.github.io](jhosno.github.io)
+**Backend:** Laravel · PHP · MySQL · Spatie Multitenancy · Socialite  
+**Frontend:** TypeScript · React · Next.js · Livewire · Tailwind  
+**Tools:** Git · Docker · GitHub Actions · Postman
 
-- 💬 Ask me about **Laravel, SQL, PHP, WP and JS**
+---
 
-- 📫 How to reach me **jhosno.dev@gmail.com**
+### 🌎 Working remotely from Venezuela (UTC-4)
 
-- ⚡ Fun fact: **I read about art history in my spare time**
+Full timezone overlap with US East Coast clients.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jhosno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhosno" height="30" width="40" /></a>
-</p>
+---
+
+### 📫 Reach me
+
+- Portfolio: [jhosno.github.io](https://jhosno.github.io)
+- LinkedIn: [in/jhosno](https://linkedin.com/in/jhosno)
+- Email: jhosno.dev@gmail.com
+
+---
+
+<sub>🐈‍⬛ Cat parent of Hela. Watching Adventure Time in my spare time.</sub>
