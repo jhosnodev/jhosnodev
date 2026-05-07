@@ -7,7 +7,6 @@ and multi-tenant SaaS architecture.
 Currently building [Creatienda](https://creatienda.cl) — a 
 multi-tenant e-commerce platform for SMBs in Latin America.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhosnodev&label=Profile%20views&color=0e75b6&style=flat" alt="jhosnodev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhosnodev" alt="jhosnodev" /></a> </p>
 
@@ -35,4 +34,4 @@ Full timezone overlap with US East Coast clients.
 
 ---
 
-<sub>🐈‍⬛ Cat parent of Hela. Watching Adventure Time in my spare time.</sub>
+<sub>🐈‍⬛ Cat parent of Hela. Reading about Art history in my spare time.</sub>
