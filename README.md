@@ -1,4 +1,3 @@
-
 I build custom WordPress for agencies — brand included when there isn't one yet — and Laravel product work on systems that are already in production.
 
 Six years in the PHP ecosystem. Bogotá, `GMT−5`, overlapping the US workday. White-label: your clients never hear my name.
@@ -24,7 +23,7 @@ Same Elementor install. Two identities with nothing in common — on purpose. Tw
 
 ## What I actually do
 
-**Give form to what has none.** Brand identity, art direction, type systems, custom WordPress builds. The brief is usually two words and that's fine.
+**Give form to what has none.** web design, type systems, custom WordPress builds. The brief is usually two words and that's fine.
 
 **Fix what's already running.** Refactoring critical modules, multi-tenant data isolation, payment gateways, legacy nobody wants to open.
 
@@ -47,7 +46,7 @@ They look like two jobs. They're one verb: reading what someone else already wro
 ```
 WordPress   themes · custom plugins · WooCommerce · Elementor · performance
 Laravel     PHP · MySQL · Spatie Multitenancy · Socialite · SOLID
-Design      brand identity · art direction · UI · type systems
+Design      web design · UI · type systems
 Front       JavaScript · TypeScript · React · Tailwind · GSAP
 Tools       Git · Docker · GitHub Actions · Figma
 ```
