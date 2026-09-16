@@ -77,7 +77,7 @@ Seis años en el ecosistema PHP. Bogotá, `GMT−5`, solapo con la jornada de Es
 
 **Dos diarios, misma agencia, con semanas de diferencia.** El encargo las dos veces fueron los accesos y dos adjetivos: *«moderna y linda»*. Sin marca, sin guía, sin diseño previo. Mismo Elementor, dos identidades que no se parecen en nada — a propósito: dos clientes de una misma agencia no pueden converger.
 
-**Lo que hago son dos cosas que parecen distintas.** Dar forma a lo que no la tiene —identidad, dirección de arte, sistemas tipográficos— y arreglar lo que ya está corriendo —refactor, multi-tenancy, pasarelas de pago, legacy que nadie quiere abrir—. Es el mismo verbo: leer lo que escribió otro, código o copia, y encontrar dónde la realidad se separó de la intención.
+**Lo que hago son dos cosas que parecen distintas.** Dar forma a lo que no la tiene —identidad, colores de marca, sistemas tipográficos— y arreglar lo que ya está corriendo —refactor, multi-tenancy, pasarelas de pago, legacy que nadie quiere abrir—. Es el mismo verbo: leer lo que escribió otro, código o copia, y encontrar dónde la realidad se separó de la intención.
 
 **Para empezar:** traé el stack trace, o dos adjetivos.
 
