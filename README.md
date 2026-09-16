@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="jhosno — full-stack developer and web design. I read what is already there before touching anything." width="100%">
+<img src="./assets/hero_3_edit.png" alt="jhosno — full-stack developer and web design. I read what is already there before touching anything." width="100%">
 
 I build custom WordPress for agencies — brand included when there isn't one yet — and Laravel product work on systems that are already in production.
 
