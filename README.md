@@ -203,6 +203,6 @@ Ocho años en el ecosistema PHP. Bogotá, `GMT−5`, en horario compatible con E
 
 </details>
 
-<img src="./assets/readme/footer.svg" width="100%" alt="© 2018–2026 Jhosno Hernández. Handmade, no templates.">
+
 
 <p align="center"><sub>🐈‍⬛ Cat parent to Hela, a very black cat. Art history in my spare time. The flytrap up top catches bugs; so do I.</sub></p>
