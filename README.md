@@ -10,7 +10,7 @@ Six years in the PHP ecosystem. Bogotá, `GMT−5`, overlapping the US workday. 
 
 ## Two papers, same agency, weeks apart
 
-The brief both times was the login details and two adjectives: *"modern and pretty."* No brand, no guide, no design.
+The brief both times was the login details and two adjectives: *"modern and pretty."* No design, no guide, nothing to inherit.
 
 |  | **[The Dover Street Examiner](https://www.doverstreet.org)** | **[Clute Institute](https://www.cluteinstitute-onlinejournals.com)** |
 |---|---|---|
